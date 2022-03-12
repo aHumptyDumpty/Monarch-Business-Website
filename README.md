@@ -1,5 +1,5 @@
 # Monarch-Business-Website
-Freelance Full Stack website built out for Monarch Rug Cleaners. ⭐
+Freelance Full Stack website built out for Monarch Rug Cleaners. 
 
 visit @: https://www.monarchrugcleaner.com/
  
